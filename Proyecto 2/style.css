@@ -1,0 +1,91 @@
+body{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    
+}
+
+div{
+    width: 1500px;
+    height: 250;
+    background-color:  #9c64a6;
+    color: white;
+    margin: 10px; 
+    border: 1px solid #999999;
+    border-radius: 25px 0px 25px 0px;
+    box-shadow: 3px 3px 5px #ddd79d; 
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+
+.box{
+   margin: 0 auto;
+   width: 200px;
+}
+
+td a{
+    margin-left: 14px;
+    color:  #9c64a6;
+    box-shadow: 10px 10px 20px #000000;
+  
+    
+}
+
+td a:hover{
+    margin-left: 25px;
+    color: beige;
+    box-shadow: 10px 10px 20px #000000;
+    transform: rotate(4deg);
+    -moz-transform: rotate(4deg);
+    -webkit-transform: rotate(4deg) ;
+    
+}
+
+td div{
+    width: 1500px;
+    height: 250;
+    background-color: #9c64a6;
+    color: black;
+    margin: 10px; 
+    border: 1px solid #999999;
+    border-radius: 25px 0px 25px 0px;
+    box-shadow: 3px 3px 5px #ddd79d; 
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+div img{
+    width: 450px;
+    height: 150;
+    opacity:valor
+    margin: 10px; 
+    border: 1px solid #999999;
+    border-radius: 25px 0px 25px 0px;
+    box-shadow: 3px 3px 5px #ddd79d; 
+} 
+   
+
+td
+{
+    vertical-align: top;  
+    text-align: center; 
+}
+
+
+
+.encabezado
+{
+    height: 180px;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    border-radius: 0px;
+    
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+ }
+}
